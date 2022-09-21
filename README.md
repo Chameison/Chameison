@@ -5,9 +5,8 @@
 - 🌱 Atualmente estou cursando uma Capacitação em desenvolvimento Web Full-Stack na Universidade Federal do Acre(UFAC)
 - 🤔 Estou procurando ajuda com Conteúdos de Java Web principalmente, mas conteúdos de desenvolvimento em geral
 - :coffee: Code and coffe <3 
-background-color: #fff;
 
-## Estou aprendendo
+## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
@@ -24,8 +23,23 @@ background-color: #fff;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"  />
           
+
+
+## Estartística github
+
+<div>
+          <a href="https://github.com/Chameison">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário
+          aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+          
+
+
+
 ## Contatos:
 
 <div>
