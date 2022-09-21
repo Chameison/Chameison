@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou cursando uma Capacitação em desenvolvimento Web Full-Stack na Universidade Federal do Acre(UFAC)
 - 🤔 Estou procurando ajuda com Conteúdos de Java Web principalmente, mas conteúdos de desenvolvimento em geral
 - :coffee: Code and coffe <3 
--->
+background-color: #fff;
 
 ## Estou aprendendo
 
