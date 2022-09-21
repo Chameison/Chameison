@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
