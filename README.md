@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+https://github.com/vanessametonini/aluramidi-curso/blob/master/README.md
