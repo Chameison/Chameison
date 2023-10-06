@@ -12,7 +12,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
+# Formação
 
+* Técnico em informática para internet - IFAC(INSTITUTO FEDERAL DO ACRE)
+* Capacitação em Desenvolvimento Web Full-Stack - Centro de Ciências Exatas e
+Tecnológicas/UFAC(UNIVERSIDADE FEDERAL DO ACRE)
+* Curso superior de sistemas para internet- IFAC(INSTITUTO FEDERAL DO ACRE) 4/6
+
+  
 ## Estou aprendendo
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
